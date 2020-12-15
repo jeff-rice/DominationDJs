@@ -1,0 +1,1 @@
+/*JavaScript code for Domination DJ Website*/
